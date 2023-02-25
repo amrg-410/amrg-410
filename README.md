@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrg-410&label=Profile%20views&color=0e75b6&style=flat" alt="amrg-410" /> </p>
 
-- 🌱 I’m currently learning **NOde.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **amrg04102002@gmail.com**
 
